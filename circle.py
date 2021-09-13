@@ -6,12 +6,14 @@
 
 import math
 
+
 def main():
     # This is math program
     print("If a circle has radius 15 mm:")
-    print("Area = {}".format(math.pi * (15**2)))
-    print("diameter = {}".format(2*15))
+    print("Area = {}".format(math.pi * (15 ** 2)))
+    print("diameter = {}".format(2 * 15))
     print("Done")
+
 
 if __name__ == "__main__":
     main()
